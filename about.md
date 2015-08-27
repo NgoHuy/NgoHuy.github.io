@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Đây là nơi lưu trữ những bài viết của Severus, về các vấn đề cơ bản,
+không phải bài viết nào cũng đúng đắn. Tác giả không chịu trách nhiệm
+khi làm theo các bài viết trên blog này.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Tất cả bài viết đều mang giấy phép CC-4.0-BY-SA-NC.
