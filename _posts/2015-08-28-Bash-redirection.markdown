@@ -16,13 +16,13 @@ Ta có 2 trường hợp sau đây,
 
 trong terminal user dragon
 
-{% highlight bash lineos%} sudo -u git cat file1 > file2 {% endhighlight %} 
-{% highlight bash lineos%} ls -l file2 : dragon:user {% endhighlight %}
+{% highlight bash linenos%} sudo -u git cat file1 > file2 {% endhighlight %} 
+{% highlight bash linenos%} ls -l file2 : dragon:user {% endhighlight %}
 
 Bọc trong một kịch bản
-{% highlight bash lineos%} sudo sh testfile {% endhighlight%}
+{% highlight bash linenos%} sudo sh testfile {% endhighlight%}
 
-{% highlight bash lineos%} ls -l file2 : root:root {% endhighlight %}
+{% highlight bash linenos%} ls -l file2 : root:root {% endhighlight %}
 
 
 Chuyện gì đã xảy ra trong quá trình redirect ?
