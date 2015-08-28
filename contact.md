@@ -4,11 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-[Email](mailto:huynhok.uit@vnoss.org)
-[Email](mailto:severus@theslinux.org)
+{% icon fa-envelope %} [VNOSS](mailto:huynhok.uit@vnoss.org)
 
-Github: https://github.com/NgoHuy
+{% icon fa-envelope %} [TheSLinux](mailto:severus@theslinux.org)
 
-Tweeter: https://twitter.com/Ngo_Huy
+{% icon fa-github %} [NgoHuy](https://github.com/NgoHuy)
 
-Linkedin: https://vn.linkedin.com/in/severus
+{% icon fa-twitter %} [Ngo_Huy](https://twitter.com/Ngo_Huy)
+
+{% icon fa-linkedin %} [severus](https://vn.linkedin.com/in/severus)
