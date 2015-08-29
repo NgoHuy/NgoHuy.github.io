@@ -2,6 +2,7 @@
 layout: post
 title: "Bash redirection"
 date: 2015-08-28 14:55:50
+comments: true
 catergories: jekyll update
 ---
 Hôm rồi tác giả có vá tập tin installer viết bằng bash với lewtds, thấy
