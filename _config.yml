@@ -4,9 +4,11 @@ email: huynhok.uit@vnoss.org
 description: > # this means to ignore newlines until "baseurl:"
   Severus's interesting things
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.severus.xyz" # the base hostname & protocol for your site
+url: "https://infosec.xyz" # the base hostname & protocol for your site
 twitter_username: Ngo_Huy
 github_username:  NgoHuy
-linkedin_username: severus
+linkedin_username: 
 # Build settings
 markdown: kramdown
+plugins: ["jekyll-include-cache"]
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
