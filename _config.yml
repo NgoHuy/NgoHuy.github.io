@@ -10,5 +10,7 @@ github_username:  NgoHuy
 linkedin_username: 
 # Build settings
 markdown: kramdown
-plugins: ["jekyll-include-cache"]
+plugins: 
+  - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
