@@ -30,7 +30,7 @@ Fraudsters must bypass SoD and BAC/PACE.
 Does NFC ID Card secure onboarding process? The answer is yes and no, based on your process validation.
 
 ## The attack on NFC ID Card.
-In my [previous post](https://infosec.xyz/posts/passport-nfc-extract-sod/), we know the way to extract data from SoD. This poste will decribe new ways to attack NFC ID Card. 
+In my [previous post](https://infosec.xyz/security/passport-nfc-extract-sod/), we know the way to extract data from SoD. This poste will decribe new ways to attack NFC ID Card. 
 
 ### Passive Authentication, Active Authentication and Chip Authentication
 Passive Authentication only validates SoD signed message and compares hash from dg1-16 values. If fraudsters generate new certificate and signed with this certificate, the party must validate again with Country Signing Certification Authority (CSCA). Because Document Signer Certificate (DCS) is intermediate certificate, it must be validated with CSCA or maintained with well known trusted list. This is mandatory requirement if the party validates passive authentication only. 
