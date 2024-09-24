@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Fido2 and banking use cases"
 
@@ -8,7 +7,7 @@ date:   2024-03-24 10:45:58 +0700
 
 author: severus
 
-categories: Security Privacy
+categories: Security
 
 tags: fido2 security banking signing
 

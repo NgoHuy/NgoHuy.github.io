@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Could I read your PIN/PASSWORD from platform authenticator?"
 

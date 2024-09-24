@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Chuyện bounty ở công ty X"
 
@@ -8,7 +7,7 @@ date:   2019-12-09 21:10:58
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: privacy security bugbounty atm card finance
 

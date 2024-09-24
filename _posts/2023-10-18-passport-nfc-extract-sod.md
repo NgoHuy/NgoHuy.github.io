@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Extract passport NFC's SoD certificate"
 
@@ -8,7 +7,7 @@ date:   2023-10-18 10:45:58 +0700
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: passport nfc SoD extraction
 

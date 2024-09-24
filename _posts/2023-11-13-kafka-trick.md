@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Retrieve kafka stream from unavailable place."
 
@@ -8,7 +7,7 @@ date:   2023-11-13 10:45:58 +0700
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: kafka configuration security
 

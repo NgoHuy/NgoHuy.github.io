@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Google BeyondCorp Walkthrough"
 
@@ -8,7 +7,7 @@ date:   2023-10-09 10:45:58 +0700
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: google IAP security
 

@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Certificate Transparency and Mobile Security"
 

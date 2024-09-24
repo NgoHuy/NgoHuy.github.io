@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Wordpress, Varnish và permission"
 date: 2015-08-28 12:55:50
 comments: true
-catergories: jekyll update
+catergories: linux
 ---
 # Wordpress chmod:
 

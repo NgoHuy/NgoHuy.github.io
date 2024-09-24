@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "New DNS Service announcement"
 
@@ -8,7 +7,7 @@ date:   2019-09-19 15:45:58
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: dns privacy security
 

@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "DNS Security Part 2: Is ECH saving us from MITM?"
 
@@ -8,7 +7,7 @@ date:   2023-11-24 14:15:58
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: privacy dns security
 

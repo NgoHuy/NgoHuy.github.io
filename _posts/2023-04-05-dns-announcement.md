@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "[2023] New DNS Service announcement"
 
@@ -8,7 +7,7 @@ date:   2023-04-05 21:45:58
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: dns privacy security
 

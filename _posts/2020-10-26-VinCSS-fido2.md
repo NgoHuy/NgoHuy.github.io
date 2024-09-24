@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "Login Linux bằng VinCSS Fido2 key "
 
@@ -8,7 +7,7 @@ date:   2020-10-26 11:00:00
 
 author: severus
 
-categories: security VinCSS fido2
+categories: security
 
 tags: security VinCSS fido2
 

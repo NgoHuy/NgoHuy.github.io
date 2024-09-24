@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "DNS Security: Part 1 which can we do if we manage the dns?"
 
@@ -8,7 +7,7 @@ date:   2023-07-30 21:45:58
 
 author: severus
 
-categories: Security
+categories: security
 
 tags: privacy dns security
 

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Docker Security"
 date: 2015-11-06 14:55:50
 comments: true
-catergories: jekyll update
+catergories: security
 ---
 Hôm nay tác giả đọc về docker, chợt nghĩ dùng docker để get root với một
 user thường, và tác giả giả lặp hành động đó như sau

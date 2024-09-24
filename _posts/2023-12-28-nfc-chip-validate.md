@@ -1,6 +1,5 @@
 ---
 
-layout: post
 
 title:  "How do we validate NFC ID card correctly?"
 

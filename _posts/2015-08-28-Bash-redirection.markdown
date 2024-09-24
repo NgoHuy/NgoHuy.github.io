@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Bash redirection"
 date: 2015-08-28 14:55:50
 comments: true
-catergories: jekyll update
+catergories: linux
 ---
 Hôm rồi tác giả có vá tập tin installer viết bằng bash với lewtds, thấy
 vấn đề redirect trong linux khá thú vị với case như sau, chắc hẳn giờ sẽ
