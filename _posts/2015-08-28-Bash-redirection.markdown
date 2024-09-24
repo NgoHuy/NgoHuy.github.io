@@ -1,9 +1,16 @@
 ---
+
 title: "Bash redirection"
+
 date: 2015-08-28 14:55:50
+
 comments: true
-catergories: linux
+
+categories: linux
+
+tags: linux bash redirection
 ---
+
 Hôm rồi tác giả có vá tập tin installer viết bằng bash với lewtds, thấy
 vấn đề redirect trong linux khá thú vị với case như sau, chắc hẳn giờ sẽ
 có câu trả lời cho khối thứ,
